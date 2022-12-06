@@ -1,4 +1,4 @@
-👋 Hi, I’m @prashant-hex ---
+👋 Hi, I’m **@prashant-hex**
 [![](https://visitcount.itsvg.in/api?id=PRASHANT-HEX&icon=6&color=1)](https://visitcount.itsvg.in)
 
 # 💻 Tech Stack:
@@ -8,10 +8,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PRASHANT-HEX&theme=blueberry&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PRASHANT-HEX&theme=blueberry&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=PRASHANT-HEX&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
+### ✍️ Todays Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
